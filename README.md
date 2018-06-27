@@ -1,7 +1,11 @@
 # Clima
-Learn to make iOS Apps | Project Stub | (Swift 3.0/Xcode 8) - Clima App
+A Swift-based app that uses Podfiles and API handling to find relevant weather information from cities.
 
-Download the starter project files as .zip and extract to your desktop. 
+## Dependencies
+The following pods are needed:
+* SVProgressHUD
+* SwiftyJSON
+* Alamofire
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
